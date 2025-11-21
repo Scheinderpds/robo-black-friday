@@ -21,4 +21,4 @@ O objetivo é monitorar preços de notebooks no Mercado Livre e identificar as m
 O script varre a internet, aplica as regras de negócio (Preço Máximo R$ 3.000) e gera um arquivo HTML interativo para visualização.
 
 ---
-*Desenvolvido por Schineider Pereira*
+*Desenvolvido por Scheneider Pereira dos Santos
